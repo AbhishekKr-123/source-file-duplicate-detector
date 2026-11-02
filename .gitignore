@@ -1,0 +1,5 @@
+duplicate_detector
+duplicate_detector.exe
+*.o
+*.obj
+duplicate_report.txt
